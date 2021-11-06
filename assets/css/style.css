@@ -1,0 +1,19 @@
+.header{
+    margin: center;
+    display: flex;
+    justify-content: space-around;
+    border: 10px;
+    background-color: blueviolet;
+
+}
+
+.header h1{
+   padding: 10px;
+   font: size 45px;
+   color: chartreuse;
+   text-align: center;
+}
+
+.header h2{
+    color:chartreuse
+}
