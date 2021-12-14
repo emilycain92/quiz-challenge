@@ -1,19 +1,12 @@
-.header{
-    margin: center;
-    display: flex;
-    justify-content: space-around;
-    border: 10px;
-    background-color: blueviolet;
-
-}
-
-.header h1{
-   padding: 10px;
-   font: size 45px;
-   color: chartreuse;
-   text-align: center;
-}
-
-.header h2{
-    color:chartreuse
-}
+* {
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --primary: #0c835bc5;
+    --secondary: rgb(104, 202, 125);
+    --tertiary: rgb(27, 133, 80);
+    --white: rgb(255, 255, 255);
+    font-size: 62.5%;
+  }
+  
