@@ -11,3 +11,7 @@ Requirements:
 Mock up:
 
 ![image](https://user-images.githubusercontent.com/90726860/146252998-382ac254-facd-4a1c-a7ae-ca9e58085cba.png)
+
+
+
+Deployed: https://emilycain92.github.io/quiz-challenge/
